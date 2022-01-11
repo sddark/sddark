@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sddark
 - 👀 I’m interested in robotics and AI/ML
-- 🌱 I’m currently learning about reinforcement learning, pytorch, and regenerative agriculture/
+- 🌱 I’m currently learning about reinforcement learning, pytorch, and regenerative agriculture
 - 📫 I can be reached at sddarkow@gmail.com
 
 <!---
