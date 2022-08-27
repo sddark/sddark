@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @sddark
-- 👀 I’m interested in robotics and AI/ML
-- 🌱 I’m currently learning about reinforcement learning, pytorch, and regenerative agriculture
+- 👋 Hi, I’m Sam
+- 🤖 I am currently working as an embedded software engineer
+- ⛵ I love sailing dinghies such as Lasers, Sun Fish, FJs, and 420s
+- 🐕 I have a golden greyhound that is obsessed with sqeakers
+- 🌱 I’m currently learning about AI/ML, MBSE and regenerative agriculture
+- 📅 I plan on contributing to hacktoberfest and compete in advent of code this fall/winter
+- 🔮 I would like to one day start a company using the open core model
 - 📫 I can be reached at sddarkow@gmail.com
 
 <!---
