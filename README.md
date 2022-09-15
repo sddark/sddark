@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam
-- 🤖 I am currently working as an embedded software engineer
+- 📝 I am currently working as an embedded software engineer
 - ⛵ I love sailing dinghies such as Lasers, Sun Fish, FJs, and 420s
 - 🐕 I have a golden greyhound that is obsessed with sqeakers
 - 🌱 I’m currently learning about AI/ML, MBSE and regenerative agriculture
