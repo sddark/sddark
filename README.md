@@ -6,7 +6,8 @@
 - 🤖 I am also interested in AI/ML, robotics, and regenerative agriculture
 - 📅 I plan on contributing to hacktoberfest and compete in advent of code this fall/winter
 - 🔮 I would like to one day start a company using the open core model
-- 📫 I can be reached at sddarkow@gmail.com
+- 📧 I can be reached at sddarkow@gmail.com
+- 📫 Check out my website hopkintonbuckeye@gmail.com
 
 <!---
 sddark/sddark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
